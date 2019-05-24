@@ -1,4 +1,2 @@
-print ("hi")
-
-while True:
-    print ("hello")
+for i in range (5):
+    print("gogo")
